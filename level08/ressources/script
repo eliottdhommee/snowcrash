@@ -1,0 +1,6 @@
+#! /bin/sh
+
+rm -rf /tmp/tmp
+ln -s ~/token /tmp/tmp
+rm -rf /tmp/tmp
+touch /tmp/tmp

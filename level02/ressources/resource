@@ -1,0 +1,5 @@
+tshark -n -r level02.pcap -T fields -e data > pass.txt
+cat pass.txt | xxd -r -p
+cat -e shows unprintable char that is backspace
+pass is ft_waNDReL0L
+

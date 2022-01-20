@@ -1,0 +1,3 @@
+find / -user flag05 2> /dev/null
+/usr/sbin/openarenaserver 
+touch file in /opt/openarenaserver/ with script

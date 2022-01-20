@@ -1,0 +1,2 @@
+binari with ltrace shows call to /bin/echo $LOGNAME
+export LOGNAME=\`getflag\`

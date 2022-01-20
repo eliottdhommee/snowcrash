@@ -1,0 +1,6 @@
+analyse program with gdb
+disass main
+set breackpoint after getuid
+change register value to 4242
+token is
+2A31L79asukciNyi8uppkEuSx

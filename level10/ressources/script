@@ -1,0 +1,6 @@
+#! /bin/sh
+
+rm -rf /tmp/token
+ln -s !/token /tmp/token
+rm -rf /tmp/token
+touch /tmp/token

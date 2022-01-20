@@ -1,0 +1,5 @@
+race condition with open
+ while true; do /tmp/script;done
+while true; do ./level08 /tmp/tmp
+token is : quif5eloekouj29ke0vouxean
+

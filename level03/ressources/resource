@@ -1,0 +1,3 @@
+/tmp/echo script
+export PATH=/tmp
+./level03
